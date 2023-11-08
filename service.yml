@@ -10,4 +10,3 @@ codeowners:
 semaphore:
   enable: true
   pipeline_enable: false
-
